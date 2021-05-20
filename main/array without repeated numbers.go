@@ -13,3 +13,6 @@ func arrayWithoutRepeatNumbers(slice []int) []int {
 	}
 	return resultSlice
 }
+func foo() {
+
+}
